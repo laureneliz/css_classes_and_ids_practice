@@ -1,1 +1,41 @@
 /*  style.css */
+
+
+body {
+  font-family: Garamond;
+  font-size: 14pt;
+
+}
+
+.picture-gallery {
+  list-style-type: none;
+
+}
+
+.picture-gallery li {
+  float: left;
+  margin: 5px 0px 5px 5px;
+  background-color: rgb(236, 15, 15);
+}
+
+#main-title {
+  font-family: garamond;
+}
+
+#main-title:hover {
+  font-family: cursive;
+}
+
+#main-body {
+  font-size: 2.0em
+}
+
+aside {
+  width: 30%;
+  float: left;
+}
+
+header h1:hover {
+  color: rgb(169, 0, 184);
+
+}
